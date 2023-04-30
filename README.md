@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working in New Zealand.
+- 🌱 I’m currently learning .NET Core, Ruby and Front-end, etc
+- 😄 Coding change impact the world!
+Mostly working on rust, golang, php, python, etc.
+
 <!--
 **athxx/athxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
