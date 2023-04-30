@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Athan. </h2>
 
-- 🔭 I’m currently working in New Zealand.
+- 🔭 I’m currently living in New Zealand.
 - 🌱 I’m currently learning .NET Core, Ruby and Front-end, etc
 - 😄 Coding change impact the world!
 Mostly working on rust, golang, php, python, etc.
