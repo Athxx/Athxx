@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Athan. </h2>
 
 - 🔭 I’m currently working in New Zealand.
 - 🌱 I’m currently learning .NET Core, Ruby and Front-end, etc
